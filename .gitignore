@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated output
+triage_report.json
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
